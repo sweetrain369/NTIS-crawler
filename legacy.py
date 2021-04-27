@@ -7,6 +7,9 @@ from time import sleep
 from collections import OrderedDict
 import random
 
+
+# 하하핳 
+
 from account_info import *
 
 # 웹드라이버로 ntis 접속
