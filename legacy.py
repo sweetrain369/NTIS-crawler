@@ -7,7 +7,7 @@ from time import sleep
 from collections import OrderedDict
 import random
 
-from account_info import *
+from set_info import *
 
 # 웹드라이버로 ntis 접속
 driver = webdriver.Chrome(r'C:\Users\sweet\Downloads\chromedriver_win32(1)\chromedriver.exe')
